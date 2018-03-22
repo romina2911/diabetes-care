@@ -47,7 +47,7 @@ Haciendo benchmarking con otras aplicaciones pudimos ver cuales son las caracter
 
 En nuestro caso, el proveer de noticias, recetas y tutoriales de ejercicios a nuestros usuarios es escencial, ya que las personas están en busqueda de nueva información para mejorar su calidad de vida
 
-### Encuesta, entevistasy resultados
+### Encuesta, entevistas y resultados
 
 ![resultados1](https://user-images.githubusercontent.com/32309909/37751747-216e7cfc-2d62-11e8-87a3-e61a64bc23ab.png)
 
@@ -64,7 +64,7 @@ A la par, a los usuarios les interesa mantenerse informados sobre la diabetes, s
 
 
 ### Sketch 
-En los resultados del testeo de prototipo en papel mostraron que los usuarios desean tener la información más segmentada. En la nayoría de testeos les gustan los botones tipo alarma de las medicinas, insulina y glucometro, sin embargo no notaron el boton de "agregar", el cual debe hacerse más grande en el prototipo de alta fidelidad.En conclusión no hubieron muchas crticias negativas.
+Nos basamos en las necesidades que tenía el usuario (recalcado en las entrevistas y encuestas): recetas, problemas para recordar la aplicación de insulina, toma de medicinas y uso de glucómetro, tips de ejercicios y noticias. En los resultados del testeo de prototipo en papel mostraron que los usuarios desean tener la información más segmentada. En la nayoría de testeos les gustan los botones tipo alarma de las medicinas, insulina y glucometro, sin embargo no notaron el boton de "agregar", el cual debe hacerse más grande en el prototipo de alta fidelidad.En conclusión no hubieron muchas crticias negativas.
 
 ![dc1](https://user-images.githubusercontent.com/32309909/37751075-45fabef4-2d5e-11e8-8ff7-4e0158396085.jpg)
 
@@ -78,6 +78,6 @@ En los resultados del testeo de prototipo en papel mostraron que los usuarios de
 
 ### Conclusiones
 
-Durante el testeo del prototipo de alta fidelidad los usuarios hicieron hincapié en que la parte de “Glucómetro” debería estar separada de medicinas, y que sería buena que la aplicación emita una alerta en cuanto los niveles de glucosa sobrepasen los normales, para que así ellos tomen conciencia de que deben cuidarse más. Muchos se sintieron cómodos con el color que se usó en la aplicación ya que sentían que le transmitían tranquilidad, a la par sintieron el flujo sencillo y practico, sobre todo para el público que no está acostumbrado a aplicaciones tan complejas. En resumen, en el testeo, el producto fue bien aceptado por la mayor parte de usuarios.
+Durante el testeo del prototipo de alta fidelidad los usuarios hicieron hincapié en que la parte de “Glucómetro” debería estar separada de "medicinas", y que sería buena que la aplicación emita una alerta en cuanto los niveles de glucosa sobrepasen los normales, para que así ellos tomen conciencia de que deben cuidarse más. Muchos se sintieron cómodos con el color que se usó en la aplicación ya que sentían que le transmitían tranquilidad, a la par sintieron el flujo sencillo y practico, sobre todo para el público que no está acostumbrado a aplicaciones tan complejas. En resumen, en el testeo, el producto fue bien aceptado por la mayor parte de usuarios ya que sintieron que buena parte de los problemas a sus necesidades fueron cubiertos,
 
 

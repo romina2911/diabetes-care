@@ -1,4 +1,9 @@
-# DIABET CARE
+# DIABETES CARE
+
+Proyecto de la especialización de UX. EN este proyecto apliqué todas las herramientas aprendidas en la especialización para hacer un app mobil que ayude a la gente diabética a cuidar su salud.
+
+![diabetescare](https://user-images.githubusercontent.com/32309909/38432150-2de10a6e-398c-11e8-8e71-edd90eb5a090.jpg)
+
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGN_
 * **CURSO:** _APLICA LO APRENDIDO_
